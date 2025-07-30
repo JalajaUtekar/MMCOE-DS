@@ -5,7 +5,7 @@ int main()
 {
 	float rnfl[3][4], total=0, avg=0;
 	int i, j;
-  for (i=0;i<3;i++)
+  for (i=0;i<3;i++) 
   {
 		cout<<"Enter Rainfall for City "<<i+1<<":\n";
 		for (j=0;j<4;j++)
