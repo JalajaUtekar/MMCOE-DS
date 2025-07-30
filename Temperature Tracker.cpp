@@ -9,7 +9,7 @@ int main()
         cout<<"Enter following Temperature Data of City "<<i+1<<endl; 
         for (int j=0; j < 7; j++) 
         { 
-            cout<<"Temperature in Celcius for Day "<<j+1<<": "; 
+            cout<<"Temperature in Celcius for Day "<<j+1<<": ";  
             cin>>temp[i][j]; 
        	} 
    	} 
