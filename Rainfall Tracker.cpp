@@ -10,7 +10,7 @@ int main()
 		cout<<"Enter Rainfall for City "<<i+1<<":\n";
 		for (j=0;j<4;j++)
 		{
-			cout<<"Month "<<j+1<<": ";
+			cout<<"Month "<<j+1<<": "; 
 		  cin>>rnfl[i][j];
 		}  
 	}
