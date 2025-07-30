@@ -5,7 +5,7 @@
 
 >Academic Year: 2025-2026
 
-Data Structures is a programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of Data Structures in one or the other way. A Data Structures is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of Data Structures that are used in almost every program or Software system that has been developed. So we must have good knowledge about Data Structures. Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. They are generally created independent of underlying languages, i.e. an algorithm can  be implemented in more than one programming language.
+Data Structures is a programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of Data Structures in one or the other way. A Data Structures is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of Data Structures that are used in almost every program or Software system that has been developed. So we must have good knowledge about Data Structures. Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. They are generally created independent of underlying languages, i.e. an algorithm can  be implemented in more than one programming language. 
 These extensive system studies include: 
 Searching & Sorting
 1. Linear Data Structure
