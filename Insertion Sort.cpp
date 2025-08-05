@@ -1,4 +1,4 @@
-//Problem Statement: Application: - When playing card games, players often use an approach similar to insertion sort to  organize their cards. They pick one card at a time and insert it into the correct position in their hand, maintaining a sorted sequence. Write a program that demonstrates how to organize (sort) cards in a hand using insertion sort.
+//Application: - When playing card games, players often use an approach similar to insertion sort to  organize their cards. They pick one card at a time and insert it into the correct position in their hand, maintaining a sorted sequence. Write a program that demonstrates how to organize (sort) cards in a hand using insertion sort.
 #include <iostream> 
 using namespace std;
 int main() {
