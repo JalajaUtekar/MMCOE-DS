@@ -10,7 +10,7 @@ using namespace std;
 class Coffee_shop {
   int token[MAXSIZE];
   public:
-    int rear;
+    int rear; 
     int front;
     Coffee_shop () {
       rear = -1;
