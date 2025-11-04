@@ -6,7 +6,7 @@ using namespace std;
 
 void dfs(int node, bool visited[], int graph[10][10], int n) {
     visited[node] = true;
-    cout << "Indexed Page: " << node << endl;
+    cout << "Indexed Page: " << node << endl; 
     for (int i = 0; i < n; i++) {
         if (graph[node][i] == 1 && !visited[i]) {
             dfs(i, visited, graph, n);
